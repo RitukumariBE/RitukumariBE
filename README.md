@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Python, and data analysis**
 
-- 👯 I’m looking to collaborate on **project Machine Learning projects and data-driven applicationscts**
+- 👯 I’m looking to collaborate on **project Machine Learning projects and data-driven applications**
 
 - 🤝 I’m looking for help with **Improving ML model performance and real-world problem solving**
 
