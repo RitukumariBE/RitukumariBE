@@ -93,6 +93,14 @@
 
 ---
 
+## 🐍 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritukumaribe/ritukumaribe/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### 🚀 Current Focus
 
 ```python
