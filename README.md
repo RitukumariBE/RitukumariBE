@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritu Kumari</h1>
-<h3 align="center">🚀 Aspiring Machine Learning Engineer </h3>
+<h3 align="center">🚀 _Aspiring Machine Learning Engineer_ </h3>
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif">
 
